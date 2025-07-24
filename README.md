@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at Metropolitan University, bangladesh.<br>I'm currently learning c, c++, html and js.
+I'm a student at Metropolitan University, bangladesh.<br>I'm currently learning c++, html and js.
 
 
 ## 🌐 Socials:
