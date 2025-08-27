@@ -7,7 +7,8 @@ I'm a student at Metropolitan University, bangladesh.<br>I'm currently learning 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_the_sailor07/#) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](mailto:saikat60mu@gmail.com)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=Mail&logoColor=white)](mailto:saikat60mu@gmail.com)
-[![Email](https://img.shields.io/badge/Email-0072C6?logo=Gmail&logoColor=white)](mailto:saikat60mu@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=Gmail&logoColor=white)](mailto:saikat60mu@gmail.com)
+
 
 
 
