@@ -10,6 +10,8 @@ I'm a student at Metropolitan University, Bangladesh.<br>I'm currently learning 
 ## 🏆 Coding Profiles
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/GODSEYE7)
 &nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-%23FFD700.svg?logo=Codeforces&logoColor=black)](https://codeforces.com/profile/GODSEYE7)
+&nbsp;
 
 
 
