@@ -8,6 +8,11 @@ I'm a student at Metropolitan University, Bangladesh.<br>I'm currently learning 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_the_sailor07/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=Gmail&logoColor=white)](mailto:saikat60mu@gmail.com)
 
+[![Facebook](https://img.shields.io/badge/-Facebook?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/saikat.talukder.948248)
+[![Instagram](https://img.shields.io/badge/-Instagram?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_the_sailor07/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikattalukder7/)
+[![Gmail](https://img.shields.io/badge/-Gmail?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikat60mu@gmail.com)
+
 ## 🏆 Coding Profiles
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/GODSEYE7)
 &nbsp;
