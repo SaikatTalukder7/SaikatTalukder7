@@ -12,18 +12,3 @@ I'm a student at Metropolitan University, Bangladesh.<br>I'm currently learning 
 &nbsp;
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23F8F3DE.svg?logo=CodeChef&logoColor=black)](https://www.codechef.com/users/saikatt07)
 &nbsp;
-
-
-
-
-
-
-
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SaikatTalukder7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SaikatTalukder7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaikatTalukder7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
