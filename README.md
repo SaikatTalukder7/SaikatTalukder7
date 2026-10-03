@@ -6,7 +6,6 @@
 
 **Metropolitan University, Bangladesh**
 
-
 </div>
 
 ---
