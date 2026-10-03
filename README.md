@@ -2,7 +2,7 @@
 
 # Hi, I'm Saikat Talukder 👋
 
-### CSE Student · Python Developer · Cloud & DevOps Enthusiast
+### CSE Student · Cloud & DevOps Enthusiast
 
 **Metropolitan University, Bangladesh**
 
