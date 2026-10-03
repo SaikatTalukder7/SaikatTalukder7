@@ -4,7 +4,7 @@
 
 # Hi, I'm Saikat Talukder 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=CSE+Student%0ACloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=CSE+Student+%C2%B7+Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
 
 **Metropolitan University, Bangladesh**
 
